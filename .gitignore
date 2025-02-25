@@ -1,0 +1,34 @@
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+
+# Backup files
+*~
+*.bak
+
+# Node.js dependencies (if any)
+node_modules/
+
+# Log files
+*.log
+
+# Python compiled files (if applicable)
+__pycache__/
+*.py[cod]
+
+# Editor directories and settings (adjust if needed)
+.vscode/
+.idea/
+
+# Custom: Ignore the files generated from builds or other temporary files
+dist/
+build/
+tmp/
+
+bibs/
+output.html
